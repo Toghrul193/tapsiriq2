@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    height: 0px;
+}
+
+
+.main{
+    margin: 0px;
+    height: 0px;
+}
+
+.main1 h1{
+
+    text-align: center;
+
+}
+
+
+.main2 h5 {
+text-align: center;
+margin-top:-30px;
+
+}
+
+.main3 p{
+    float: left;
+    margin-left: 400px;
+    font-size: 15px;
+}
+.main4{
+    float: left;
+  
+    font-size: 15px;
+    margin-top: -118px;
+    margin-left: 760px;
+}
+.main5 h3{
+    height: 40px;
+    text-align: center;
+    margin-top: 209px;
+    margin-left: -40px;
+}
+.main6 h3{
+width: 200px;
+height: 50px;
+margin: 0 auto;
+border: 2px solid black;
+text-align: center;
+
+}
